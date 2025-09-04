@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Test and temporary files
+*.test.js
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Development scripts (not needed for the live site)
+check-words.js
+update-vocabulary.js
+generate-readme.js
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs (if any)
+dist/
+build/
+
+# Backup files
+*.bak
+*.backup
+README.md.backup
