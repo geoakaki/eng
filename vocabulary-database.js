@@ -367,6 +367,7 @@ const vocabularyDatabase = {
       { word: "means of transportation", definition: "methods or systems for moving people or goods", georgian: "ტრანსპორტის საშუალებები" },
       { word: "trial", definition: "a test period", georgian: "გამოსაცდელი პერიოდი" },
       { word: "root causes", definition: "fundamental reasons", georgian: "ძირეული მიზეზები" },
+      { word: "aim", definition: "a goal or target", georgian: "მიზანი" },
       { word: "aims", definition: "goals or targets", georgian: "მიზნები" },
       { word: "to sour", definition: "to develop an unpleasant taste or mood", georgian: "მჟავობა, გაწბილება" },
       { word: "impartiality", definition: "fairness; not taking sides", georgian: "მიუკერძოებლობა" },
